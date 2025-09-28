@@ -1,5 +1,5 @@
 # Text to Subtitles script for Vegas Pro
-A script that transforms generated text to subtitles in Vegas  
+A script that exports generated text as subtitles in Vegas   
 Script should be putten in "Script Menu" folder in Vegas installation folder. Example of path: "C:\Program Files\VEGAS\VEGAS Pro 22.0\Script Menu"  
 After copiing script - restart Vegas  
 
